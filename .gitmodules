@@ -1,3 +1,6 @@
 [submodule ".config"]
 	path = .config
 	url = https://github.com/m-c-frank/.config
+[submodule ".local"]
+	path = .local
+	url = https://github.com/m-c-frank/.local
